@@ -47,6 +47,9 @@ La cercanía con nuestros clientes es esencial; sólo así podemos aportar la so
 Nuestra condición de empresa joven nos proporciona pasión y entusiasmo, el cual transmitimos mediante la prestación de un servicio rápido y eficaz y con una gran involucración y proactividad.
 
 #### La Corporación jurídica y económico-financiera: "Tú y nosotros"!
+
 En nuestra exigencia con nosotros mismos nos comprometemos plenamente con nuestros clientes. 
+
 Porque queremos crecer contigo y según nuestro eslogan: "Si no sabes donde vas ningún camino te llevará allí.."... 
+
 Vamos a ofrecerte nuestro mejor know-how adquirido a lo largo de estos años y brindarte la mejor atención que puedas desear.....
