@@ -1,0 +1,778 @@
+ 4 nov 2014
+   
+PREPARANDO EL CIERRE CONTABLE DEL EJERCICIO
+
+El proceso de cierre contable del ejercicio 
+  
+El cierre contable es el proceso consistente en cerrar o cancelar las cuentas de pérdidas y ganancias y llevar su resultado a las cuentas de balance respectivas. Al finalizar un periodo contable se debe proceder a cerrarlas cuentas de pérdidas y ganancias para determinar el resultado económico del ejercicio o del periodo que bien puede ser una pérdida o utilidad. 
+  
+¿Qué hemos de hacer para calcular el resultado? ¿Cómo podemos diferenciar lo que hemos obtenido durante estos meses de lo que obtuvimos en los doce anteriores? 
+  
+En los registros contables (libro Diario y libro Mayor) se han ido recogiendo, mediante la aplicación de diversas normas de valoración y de imputación temporal (impuestas por la legislación contable, cuya norma central es el Plan General de Contabilidad, PGC), todos los acontecimientos con incidencia económica (hechos económicos) que han modificado cuantitativa o cualitativamente al patrimonio de la empresa. 
+  
+A lo largo del ejercicio económico los responsables de recoger y registrar los hechos económicos (administrativos y contables) que se hayan producido pueden cometer errores involuntarios al registrarlos.  
+  
+Estos errores pueden ser cuantitativos: anotaciones contables con valores equivocados; o cualitativos: anotaciones contables en partidas (cuentas) equivocadas. 
+  
+Mediante este proceso se detectan y corrigen los errores efectuando los asientos de rectificación que correspondan: asientos de anulación, asientos complementarios, etc. 
+  
+En la fecha de cierre del ejercicio económico, que puede coincidir o no con el 31 de diciembre de cada año, suelen quedar hechos económicos (operaciones) que no están completamente documentados, por ejemplo: compras entradas en el almacén, pero de las que no se han recibido las facturas o, si se han recibido, no se han aprobado; ventas entregadas a los clientes sin que hayan sido facturadas o que están pendientes de aprobación por los mismos. 
+  
+El PGC establece que determinadas operaciones de inversión y/o financiación de la empresa que en su origen tenían un vencimiento o devengo (momento en el que nace el derecho de cobro o la obligación de pago) a largo plazo (más allá de la fecha de cierre del ejercicio económico) deben ser registradas como operaciones a corto plazo por la parte del importe total cuyo vencimiento o devengo se produzca durante el ejercicio económico. 
+  
+Evidentemente, la vida de la empresa se extiende desde su puesta en marcha hasta el momento de su desaparición de manera continua. Así pues, el resultado verdadero se obtendría valorando la empresa en el momento de su cierre (valor final) y comparando dicho valor con el que correspondiera al momento de su puesta en marcha (valor inicial). 
+Para obtener ambos valores se sumarían los activos: bienes y derechos; y se restarían las deudas con terceros; correspondientes al momento inicial y final, respectivamente. 
+  
+La diferencia entre ambos valores, el inicial y el final, constituiría el beneficio (si el valor final fuera mayor que el valor inicial) o la pérdida (en caso de ser el valor final menor que el valor inicial) obtenido por la empresa en el desarrollo de su actividad. 
+Sin embargo, ni los accionistas ni el Estado ni los terceros interesados en la marcha de la empresa están dispuestos a esperar a que se produzca su desaparición para recuperar parte de su inversión (accionistas), cobrar los impuestos devengados (Estado) o conocer la situación de la empresa (terceras personas interesadas). 
+  
+Es por ello que se divide artificialmente la vida de la empresa en una sucesión de ejercicios económicos, a los que se da una duración equivalente a doce meses naturales. Es por esta razón que se habla del resultado periódico para diferenciarlo del resultado total obtenido por la empresa. 
+  
+Así pues, a la imputación o asignación de los ingresos y de los gastos que corresponden a cada ejercicio económico y que servirán para determinar el resultado periódico se le denomina periodificación. 
+  
+Resultado antes de impuestos 
+Para ello bastará que carguemos (se denomina cargo cualquier anotación realizada en él debe de una cuenta) a la cuenta 129. Pérdidas y Ganancias los saldos de todas las cuentas de compras y gastos y que abonemos (se denomina abono cualquier anotación realizada en el haber de una cuenta) a la misma cuenta 129. Los saldos de todas las cuentas de ventas e ingresos. 
+  
+De esta manera todas las cuentas de gastos y todas las de ingresos quedarán saldadas y cerradas, es decir que su saldo será igual a cero. 
+Por su parte, la cuenta 129. Pérdidas y Ganancias presentará: 
+- Saldo deudor o pérdida, si la suma de los gastos es mayor que la de los ingresos. 
+- Saldo acreedor o ganancia, si la suma de los ingresos es mayor que la de los gastos. 
+Impuesto de Sociedades 
+  
+El saldo de la cuenta 129. Pérdidas y Ganancias representará después de lo expuesto en el apartado anterior el resultado contable obtenido por la empresa a lo largo del ejercicio económico que se cierra sin tener en cuenta el gasto derivado del Impuesto de Sociedades devengado sobre dicho resultado. 
+  
+Así pues, en el caso de que la empresa haya obtenido un resultado positivo o ganancia, se determinará la cuota devengada del Impuesto de Sociedades, considerada como gasto del ejercicio económico que se cierra, aplicando al resultado contable los criterios tributarios en cuanto a bonificaciones, deducciones y tarifa impositiva. 
+  
+Esta cuota, que insistimos que tiene la consideración de gasto a efectos económicos, aunque no es un gasto deducible desde la perspectiva fiscal, se registrará en la cuenta 630. Impuesto sobre beneficios mediante el correspondiente cargo. 
+  
+Si por el contrario la empresa ha obtenido un resultado negativo o pérdida, se determinará cuota devengada del Impuesto de Sociedades, considerada como crédito de impuestos para los siguientes ejercicios económicos, aplicando al resultado contable los criterios tributarios en cuanto a bonificaciones, deducciones y tarifa impositiva. 
+  
+Esta cuota, que insistimos que tiene la consideración de crédito impositivo a efectos económicos y que puede tener la misma consideración desde la perspectiva fiscal, se registrará en la cuenta 630. Impuesto sobre beneficios mediante el correspondiente abono. 
+  
+  
+Resultado después de impuestos 
+Finalmente, llegamos a la determinación del resultado después de impuestos mediante el correspondiente cargo o abono del saldo de la cuenta 630. 
+Impuesto sobre beneficios a la cuenta 129. Pérdidas y Ganancias. 
+  
+Se producirá un cargo si el resultado antes de impuestos era positivo y, por lo tanto, el saldo de la cuenta 630. Representaba el gasto derivado del Impuesto de Sociedades. 
+Por el contrario se producirá un abono si el resultado antes de impuestos era negativo y, por lo tanto, el saldo de la cuenta 630. Representaba el crédito de impuestos derivado del Impuesto de Sociedades. 
+  
+Cierre de cuentas 
+Una vez completados los procesos anteriormente descritos y habiendo determinado y registrado el resultado contable después de impuestos podemos considerar definitivamente cerrado el ejercicio económico. 
+  
+Sin embargo, a efectos contables todavía quedaría pendiente el cierre de todas las cuentas denominadas de balance (cuentas incluidas en los grupos del 1 al 5, ambos incluidos, del PGC). 
+  
+Para ello procederemos a abonar por su saldo todas las cuentas de activo (se denominan de activo todas aquellas cuentas que al cierre del ejercicio presentan un saldo deudor, es decir aquellas en las que la suma de todas las anotaciones realizadas en el debe es mayor que la suma de todas las anotaciones realizadas en el haber.  
+  
+También son los beneficios de la entidad producto de un desembolso en el pasado) y a cargar asimismo por su saldo todas las cuentas de pasivo (se denominan de pasivo todas aquellas cuentas que al cierre del ejercicio presentan un saldo acreedor, es decir aquellas en las que la suma de todas las anotaciones realizadas en el debe es menor que la suma de todas las anotaciones realizadas en el haber.  
+  
+También son desembolsos realizados de los cuales se espera obtener beneficios en el futuro). 
+  
+De esta forma hemos procedido al cierre de la contabilidad en la fecha de cierre del ejercicio económico. 
+  
+Para mayores informaciones y consultas, no duden en ponerse en contacto con nuestro despacho: 
+e-mail: asesoria@orbis-corporacion.com 
+tlf.: 91 02 50 719 
+móvil: 645 96 80 93 
+ 
+
+
+
+ 4 nov 2014
+   LA REFORMA FISCAL PARA EL 2015 parte 2
+Después de una primera entrega donde vimos cómo la reforma fiscal afecta al Impuesto de la Renta veremos en esta segunda el resto de modificaciones importantes a tener en cuenta. 
+  
+Empezamos por el Impuesto de Sociedades:  
+
+    Reducción de los tipos:  
+
+El tipo general irá bajando progresivamente pasando del 30 % actual, al 28% en 2015, y al 25 % en 2016. 
+El tipo ordinario para las PYMES no sufrirá cambios, manteniéndose en el 25% (caso aparte es la situación para las PYMES con base imponible superior a 300.000 € cuyo tipo sufrirá la misma evolución que el general) 
+Las empresas de nueva creación mantendrán el tipo del 15% 
+   
+
+    Reserva de nivelación:  
+
+Es una reserva exclusiva para PYMES que deberá dotarse con cargo a los beneficios no repartidos en sus recursos propios. Con esta reserva se podrá minorar la tributación del ejercicio con las bases imponibles negativas que se puedan generar en los cinco años siguientes. El límite de reducción de la base imponible se sitúa en un 10% no pudiendo superar además el 1.000.000 €. 
+   
+
+    Reserva de capitalización:  
+
+Accesible para cualquier tipo de empresa. Consiste en la creación de una provisión exenta de impuestos limitada al 10 % de los beneficios de la sociedad. Dicha provisión será destinada a la autofinanciación de la empresa promoviendo de esta manera el control en el endeudamiento financiero. 
+  
+Cabe destacar que aquella sociedad que haga uso de la reserva de nivelación podrá alcanzar un tipo efectivo del 22,50 %, y si además hace uso de la reserva de capitalización dicho tipo podrá bajar hasta el 20,25 %. 
+   
+
+    Mayores incentivos para la inversión en I+D:  
+
+El proyecto de ley establece nuevos incentivos para las empresas que apuesten firmemente por la inversión en I+D. Así cuando los importes desinados a esta partida sean  superiores al 10% de su cifra de negocio podrán elevar de 3 a 5 millones de euros anuales el importe de la deducción. 
+   
+
+    Nuevo tratamiento de la doble imposición:  
+
+Se busca igualar el tratamiento de las rentas derivadas de participaciones en entidades residentes y no residentes, tanto en materia de dividendos como de transmisión de los títulos. 
+Actualmente la normativa diferencia entre residentes y no residentes y si las rentas se obtienen por dividendos o por plusvalías de venta. 
+En el caso de los residentes no hay diferencia entre el tratamiento de dividendos o plusvalías. Aquellos que tengan más de un 5 por ciento del capital social tienen una exención del 100 % en la repatriación de capitales, si la titularidad es menor a ese porcentaje la reducción es del 50%. 
+  
+En cuanto a los no residentes la repatriación de capitales está exenta de tributación, siempre que se alcance más del 5 % del capital social  y la filial realice una actividad económica. En el caso de poseer menos del 5 % del capital, el no residente tiene un tratamiento igual al que tienen las personas físicas en el IRPF, con la diferencia entre lo pagado en el extranjero y lo que se hubiese pagado en España. 
+  
+Con la reforma fiscal, se incorpora un régimen de exención general para participaciones significativas, aplicable tanto en el ámbito interno como internacional, eliminando en este segundo ámbito el requisito relativo a la realización de actividad económica, si bien se incorpora un requisito de tributación mínima en el país donde opere la sociedad que se establece en el 10 % de tipo nominal. 
+  
+Se quita, por tanto, la dualidad entre ser residente o no serlo y entre las rentas por dividendos y las de plusvalías. Así, las rentas repatriadas estarán exentas si se posee un 5 % del capital o el valor de la participación supera los 50 millones de euros. De esta forma, si se tributa por un 10 % o más en el país de ejercicio de la sociedad, ya no es necesario que haya actividad económica, lo que permite beneficiarse del recorte a las sociedades de cartera. 
+   
+
+    Otras ventajas para las PYMES:  
+
+  
+La reforma fiscal mantiene el régimen especial de entidades de reducida dimensión pudiendo beneficiarse las PYMES por tanto de otras ayudas, como la libertad de amortización o las deducciones por creación de empleo. 
+  
+Respecto al IVA se mantiene sin cambios. Cierto es que la Comisión Europea ha estado presionando al Gobierno para su subida, quien sin embargo ha decidido mantener el tipo general en el 21% actual. 
+Sí se modifica la tributación de algunos productos sanitarios que pasan del 10% al 21% sin verse afectadas las gafas, las prótesis, las muletas o las sillas de ruedas. 
+  
+Modificaciones en la “Ley Beckham” 
+Con la reforma fiscal la conocida “Ley Beckham” deja definitivamente fuera de su ámbito de aplicación a los deportistas profesionales. 
+ Esta Ley nació en 2005 con el objetivo de atraer a España trabajadores extranjeros altamente cualificados en áreas como la ciencia o el mundo empresarial, viéndose beneficiados “de rebote” los deportistas profesionales (de ahí su nombre al ser el jugador inglés uno de los primeros beneficiados) 
+La ventaja fiscal consistía en que los extranjeros que se mudasen a España a trabajar podrían tributar como no residentes, lo que implicaba pagar impuestos al tipo general fijo del 24%, tipo que coincidía con el tipo mínimo del IRPF de por aquel entonces. 
+  
+En 2010 el Gobierno modificó esta controvertida ley limitando sus ventajas fiscales a aquellos trabajadores extranjeros que generasen unos ingresos anuales inferiores a 600.000 €. En caso de rentas superiores se empezaba a aplicar la escala habitual, con un tipo del 43% a partir de los 120.000 €. 
+  
+Esta reforma no afectó sin embargo a los trabajadores o deportistas extranjeros que ya disfrutaban de las ventajas fiscales previas a la modificación del 2010. 
+  
+Es ahora con la nueva reforma fiscal cuando se excluye explícitamente de este régimen a los deportistas profesionales quienes tributarán en lo sucesivo al 45% (47% en 2015) a partir de los 60.000 €. 
+  
+El resto de trabajadores extranjeros podrán seguir beneficiándose de este régimen durante cinco años permaneciendo para ello los requisitos invariables como hasta ahora, es decir, no pueden haber residido en España los 10 años anteriores a su residencia en nuestro país. Lo que sí cambia es la forma de tributación pues se elimina el límite de aplicación de los 600.000 € tributando a partir de ahora los primeros 600.000 € al 24% y el resto al 45%. 
+  
+Instauración del “exit tax”: nuevo gravamen de penalización por cambio de residencia. 
+  
+Se trata de un gravamen nuevo en el sistema tributario español, y por tanto es muy probable que tenga que pasar por el filtro de los tribunales para confirmar su aplicación y cumplimiento conforme a lo dispuesto por la doctrina comunitaria. 
+  
+Se trata de un gravamen para aquellos que siendo contribuyentes del IRPF pierdan su condición de residentes dejando así de ser sujetos pasivos del impuesto por trasladarse al extranjero. 
+  
+El gravamen consiste en considerar como ganancia patrimonial aquella ganancia latente no consolidada derivada de la diferencia entre el valor de mercado de las acciones o participaciones propiedad del contribuyente a último día del ejercicio en que todavía se considere residente en España, y su valor de adquisición. 
+  
+Este es sin embargo un gravamen enfocado a altos ejecutivos y grandes o medianas fortunas, y es por ello por lo que para su aplicación deben cumplirse los siguientes requisitos: 
+   
+
+    El contribuyente tenga esa condición durante al menos cinco de los diez periodos impositivos anteriores al último periodo impositivo en el que todavía es considerado residente en España.  
+    El valor de mercado de las acciones o participaciones de la que se tenga la titularidad exceda de 4 millones de euros o el porcentaje de participación sea mayor al 25%, siempre que el valor de mercado de las acciones o participaciones exceda de un millón de euros.  
+
+  
+*Casos especiales: 
+1. Si el cambio de residencia fiscal se produce por motivos laborales: el contribuyente podrá solicitar el aplazamiento del pago de la deuda tributaria, siempre que el territorio al que se traslade no sea considerado paraíso fiscal. 
+  
+En estos casos si el obligado tributario adquiere de nuevo la condición de contribuyente por este impuesto dentro del plazo de los cinco ejercicios siguientes al último tributado como residente en España sin haber transmitido la titularidad de las acciones o participaciones, se extinguirá la deuda tributaria aplazada. 
+  
+En caso de que no se hubiese solicitado el aplazamiento referido en ningún momento se podrá solicitar la devolución de las cantidades ingresadas. 
+  
+2. Si el cambio de residencia se produce a otro Estado miembro de la Unión Europea o del Espacio Económico Europeo: la ganancia patrimonial deberá ser autoliquidada sólo si en el plazo de los diez ejercicios siguientes concurren alguna de las siguientes circunstancias: 
+- Que se transmitan inter vivos las acciones o participaciones. 
+- Que el contribuyente pierda la condición de residente en un Estado miembro de la Unión Europea o del Espacio Económico Europeo. 
+- Que se incumpla la obligación de comunicación de la ganancia patrimonial puesta de manifiesto, el estado de la nueva residencia fiscal o las variaciones en la titularidad de las participaciones o acciones. 
+  
+3. Contribuyentes que hubiesen optado por el régimen fiscal especial aplicable a los trabajadores desplazados a territorio español: en este caso el plazo de cinco períodos impositivos se iniciará en el primer período impositivo en el que no resulte de aplicación ese régimen especial. 
+  
+4. Contribuyentes a los que les sea aplicable la denominada “cuarentena fiscal” por cambio de residencia a un paraíso fiscal: la ganancia patrimonial será imputada en el último año en el que haya residido realmente en España. 
+  
+Para más informaciones al respecto, no duden en ponerse en contacto con nuestro despacho: 
+e-mail: asesoria@orbis-corporacion.com 
+tlf.: 91 02 50 719 
+móvil: 645 96 80 93
+#reformafiscal2015
+
+
+
+
+  30 sep 2014
+  LA REFORMA FISCAL PARA EL 2015 1ra parte
+  
+reformas-fiscales-2015.pngreformas-fiscales-2015.png
+  
+Es mucha la controversia que estas últimas semanas ha provocado la nueva reforma fiscal ideada por el Gobierno, dejando por el camino opiniones y análisis para todos los gustos. Lo que es innegable es que tras su aprobación en el Consejo de Ministros este Proyecto de Ley, que no entrará en vigor hasta el 1 de enero de 2015,  es una realidad que ya está llamando a la puerta. 
+  
+Nosotros vamos a analizar la reforma de la manera más clara y objetiva posible de modo que cada uno pueda sacar sus propias conclusiones. 
+  
+En esta primera parte analizamos los principales cambios que conciernen al Impuesto de la Renta, que son los siguientes: 
+   
+
+    Rebaja de tipos para la base general:  
+
+El ahorro medio para el contribuyente será del 12,5 %, lo que supone una minoración en la recaudación de 9.000 millones de € brutos, y un impacto en la economía que se espera traducir en un aumento del 0,55 % del PIB en 2015 y 2016. 
+Además de la rebaja de tipos se reduce el número de tramos de siete a cinco quedando de la siguiente manera: 
+   
+
+    2014: del 24,75% al 52% (siete tramos)  
+    2015: del 20% al 47% (cinco tramos)  
+    2016: del 19% al 45%. (cinco tramos)  
+
+   
+
+    Rebaja de tipos para la base del ahorro y no distinción de plusvalías en función del plazo de generación:  
+
+Se elimina la distinción entre las ganancias patrimoniales obtenidas en menos de un año y las demás. Hasta ahora las primeras se incluyen en la base imponible general pudiendo llegar a alcanzar un tipo del 52%. 
+Con la reforma todas las plusvalías, independientemente del plazo en el que se hayan generado, tributarán en la base imponible del ahorro que, además de tener tipos inferiores a los de la base general, se verán reducidos con la nueva ley: 
+            -2014: hasta 6.000 € 21%, de 6.000 a 24.000 € 25 %, de 24.000 € en adelante 27% 
+            -2015: hasta 6.000 € 20%, de 6.000 a 24.000 € 22 %, de 24.000 € en adelante 24% 
+            -2016: hasta 6.000 € 19%, de 6.000 a 24.000 € 21 %, de 24.000 € en adelante 23% 
+   
+
+    Eliminación de la exención de dividendos:  
+
+Una de las medidas más polémicas. Hasta la fecha los dividendos de hasta 1.500 € estaban exentos de tributación. Con la reforma desaparece esta exención tributando el 100% del dividendo obtenido en la base imponible del ahorro. Si bien es cierto que el impacto se verá reducido con la rebaja de los tipos explicada en el punto anterior. 
+   
+
+    Tributación de la indemnización por despido:  
+
+La aplicación de esta reforma ha sido automática entrando ya en vigor el pasado 1 de Agosto. Se establece un mínimo exento de hasta 180.000 €, siguiendo el modelo foral navarro (Hasta Agosto el mínimo exento venía condicionado por límites reconocidos en el Estatuto de los Trabajadores) 
+Otra novedad importante al respecto es que el cobro de la indemnización no sujeto a exención podrá ser considerado renta irregular (con la reducción del 40% que conlleva) aún en caso de que el pago de la misma sea fraccionado y abarque varios ejercicios fiscales (la reducción por rendimientos irregulares sólo se aplica para rendimientos percibidos en un solo periodo impositivo) 
+   
+
+    Deducciones al alquiler de vivienda habitual:  
+
+- Para el inquilino: el Gobierno suprimirá la deducción por alquiler de vivienda con el objetivo de equiparar la falta de estímulos fiscales a los de la compra. 
+Sin embargo sólo se verán afectados los alquileres firmados a partir del 1 de enero de 2015, conservando los demás la deducción que se venía aplicando hasta ahora (10,05% de las cantidades satisfechas en el período impositivo, siempre que la base imponible del contribuyente sea inferior a 24.107,20 € anuales, y hasta un máximo de 9.040 euros anuales) 
+Nada tiene que ver esto con las deducciones autonómicas al alquiler, pues cada Comunidad Autónoma es competente para crearlas, mantenerlas, modificarlas o eliminarlas. 
+  
+- Para el propietario: se mantiene la reducción del 60 % (sólo en caso de rendimiento neto positivo) pero se elimina la del 100 %, la cual estaba condicionada a la edad e ingresos del inquilino. 
+   
+
+    Eliminación de los coeficientes de abatimiento:  
+
+Otra medida polémica y que puede empujar a mucha gente a vender patrimonio antes de 2015. 
+Estos coeficientes de abatimiento lo que hacen es reducir las ganancias patrimoniales derivadas de la transmisión de elementos patrimoniales no afectos a actividades económicas adquiridos . 
+¿Qué ganancia se reduce? La acumulada desde la fecha de adquisición hasta el 20 de enero del 2006. 
+¿Cómo se calcula esa ganancia sujeta a reducción? De forma proporcional al número de días que el bien transmitido ha permanecido en su patrimonio. Así si el bien ha estado 10.000 días en su patrimonio, y desde la fecha de adquisición al 20 de enero de 2006 han transcurrido 7.500 días, la base de la reducción será el 75 % de la ganancia patrimonial acumulada. 
+¿En qué porcentaje se aplica la reducción? Depende, a mayor antigüedad mayor porcentaje, puede llegar a ser del 100 % y depende del tipo de activo transmitido (inmuebles, acciones, participaciones de fondos de inversión, etc.) Las escalas de reducción pueden consultarse en la 
+   
+
+    Rebaja de la reducción por rendimientos del trabajo:  
+
+La reforma sustituirá la reducción de 2.652 € por obtención de rendimientos del trabajo (aplicable hasta ahora a todos los trabajadores por cuenta ajena independientemente de la edad) por una minoración de 2.000 € en concepto de gastos deducibles. Sin embargo se aumenta la reducción para los rendimientos netos inferiores a 14.450 € que puede llegar hasta los 3.700 €. 
+De forma paralela a esta media con la reforma fiscal se elimina por completo la reducción adicional de 2.652 € que los contribuyentes mayores de 65 años tenían por el mero hecho de seguir empleados. 
+   
+
+    Aumento del mínimo personal y familiar:  
+
+La nueva ley ampliará este mínimo (aplicable a todos los contribuyentes sin distinción) desde los actuales 5.151 € hasta los 5.550 €. 
+También se verá beneficiado quien tenga dos hijos a su cargo pues el mínimo adicional aplicado por este concepto se aumenta desde los 2.040 € actuales hasta los 2.700 €. 
+   
+
+    Incentivos a las familias:  
+
+A imagen y semejanza de la ya existente deducción a madres trabajadoras con hijos menores de tres años se crean tres impuestos negativos nuevos, que reciben dicho nombre porque a diferencia del resto de deducciones no están limitados a las retenciones soportadas por el trabajador para poder beneficiarse de ellos. 
+Se trata de aportaciones de 1.200 € anuales (o 100 € mensuales) que se aplicarán a familias con hijos dependientes con discapacidad superior al 33 %,  a las que tengan ascendientes discapacitados con una capacidad también superior al 33 %, y a las familias numerosas. 
+Estos beneficios se pueden acumular entre sí incluyendo al que perciben ya las madres trabajadoras con hijos menores de 3 años, y de similar cuantía. 
+   
+
+    Plan ahorro 5:  
+
+Este es un producto destinado al pequeño ahorrador consistente en promover el ahorro a medio y largo plazo incentivándolo fiscalmente. 
+Dicho ahorro deberá materializarse a través de cuenta bancaria o seguro que garantice la retribución de, al menos, el 85% de la inversión. De esta forma los rendimientos que se generen en vez de tributar como rendimientos de capital mobiliario estarán exentos fiscalmente siempre que la inversión se mantenga un mínimo de cinco años. 
+   
+
+    Planes de pensiones más flexibles:  
+
+El cambio más significativo reside en el aumento de la liquidez de estos productos ya que con la reforma se podrá disponer de los derechos correspondientes a aportaciones hechas a partir del 1 de enero de 2015 una vez que éstas tengan 10 años de antigüedad. Por lo tanto habrá que esperar al 1 de enero de 2025 para hacer líquidos los importes sin perder los beneficios fiscales asociados (diferimiento del impuesto al reducir la base imponible del mismo en las aportaciones hechas y posterior tributación como rendimientos del trabajo en el rescate, lo que en la práctica se traduce en bases más equilibradas y tipos medios más bajos) 
+  
+Hasta ahora la única posibilidad de hacer líquidos estos productos de forma anticipada era por motivos de fallecimiento, accidente, enfermedad grave o paro de larga duración. Este régimen se aplicará a los planes de pensiones individuales, asociados y de empleo. 
+Este aumento de flexibilidad se ve contrarrestado sin embargo por la otra novedad que afecta a los planes de pensiones y que es la limitación de la aportación anual a 8.000 €, independientemente de la edad del contribuyente, estando el límite actual en los 10.000 € anuales para los menores de 50 años, y 12.500 € para los que sobrepasen dicha edad. 
+   
+
+    Planes Individuales de Ahorro Sistemático (PIAS):  
+
+Los llamados PIAS son seguros de vida para constituir una renta vitalicia asegurada. Uno de los requisitos indispensables para la aplicación de sus beneficios fiscales asociados es la antigüedad de la primera prima satisfecha que pasa a ser de cinco años en lugar de los diez exigidos actualmente, equiparando este aspecto a las exigencias de los nuevos Planes de Ahorro a Largo Plazo o Planes de Ahorro 5. 
+  
+El incentivo fiscal reside en que una vez transcurridos cinco años desde la primera aportación (siempre para aportaciones a partir del 1 de enero de 2015 pues no existe efecto retroactivo para las realizadas hasta y durante 2014, cuyo plazo de rescate seguirá siendo de diez años), los rendimientos generados hasta entonces (rentabilidades obtenidas) quedan totalmente exentos de tributación, siempre que se rescate el producto para constituir una renta vitalicia. 
+   
+
+    Exención de plusvalías para mayores de 65 años:  
+
+Una forma que ha tenido el Gobierno de contrarrestar la eliminación de los coeficientes de abatimiento es acordando que las plusvalías obtenidas por un contribuyente mayor de 65 años estarán exentas si se reinvierten en una renta vitalicia hasta un límite de 240.000 €. En caso de exceso se tributará la diferencia como ganancia patrimonial. 
+   
+
+    Autónomos, reducción de retenciones y techo fiscal deducible:  
+
+Se rebajarán las retenciones a este colectivo al 20% en 2015 y al 19% en 2016 frente al 21% actual. Además desde Julio de este mismo año ya ha entrado en vigor la rebaja de las retenciones al 15 % para quienes tengan ingresos inferiores a 15.000 € anuales, y siempre que más del 75% de sus rentas procedan de actividades económicas. 
+  
+La otra gran variación consiste en la eliminación de la partida conocida hasta ahora como  "gastos de difícil justificación", que suponía un 5% de los ingresos netos que generara el contribuyente. Este concepto se sustituye por una limitación fija de 2.000 € anuales para todos los autónomos quedando por tanto perjudicados aquellos con un rendimiento anual superior a 40.000 €. 
+   
+
+    Pensiones procedentes del extranjero pendientes de regularizar:  
+
+Aquellos inmigrantes retornados o pensionistas extranjeros residentes en España que no hayan declarado en los ejercicios anteriores pensiones recibidas de otros países podrán “ponerse al día” ingresando la cuota tributaria correspondiente, a través de autoliquidaciones complementarias, sin la aplicación de sanciones, recargos ni intereses de demora. 
+  
+Este periodo de gracia durará tan sólo los 6 primeros meses de 2015. 
+   
+
+    Reducción de módulos:  
+
+Se excluyen del régimen de módulos las actividades que facturen menos de un 50% a personas físicas y aquellas a las que se aplica el tipo de retención del 1%. Paralelamente se reduce el umbral de exclusión de 450.000 a 150.000 euros para ingresos y de 300.000 a 150.000 € para gastos. 
+  
+Continúan en módulos el comercio al por menor, la fabricación de pan y bollería, impresión de textos, cafeterías, restaurantes, quioscos, hoteles de dos estrellas o inferior categoría, talleres, transporte de viajeros por carretera, taxistas, mensajeros, escuelas y autoescuelas, tintorerías y peluquerías. 
+  
+También permanecen agricultura y ganadería con ciertas peculiaridades, ya que no les afecta la regla del 50% de facturación y su umbral de exclusión es de 200.000 y 150.000 € respectivamente. 
+   
+
+    Eliminación de la deducción para mayores de 65 años que sigan trabajando:  
+
+Hasta ahora todos los trabajadores mayores de 65 años disfrutaban de una reducción adicional en sus rendimientos del trabajo por el mismo importe que la general, 2.652 € (5.304 € en total) 
+  
+Esta reducción desaparecerá con la reforma fiscal por lo que los trabajadores que cumplan este perfil sólo disfrutarán de la reducción general de 2.652 €, igual para todos aquellos contribuyentes con rendimientos del trabajo. 
+   
+
+    Nuevo sistema de compensación de rentas:  
+
+A partir de 2015 volverá a ser posible compensar las ganancias o pérdidas patrimoniales (venta de acciones por ejemplo) con rendimientos de capital mobiliario (intereses de un depósito de ahorro o venta de unas participaciones preferentes).  
+Sin embargo este nuevo sistema de compensación está sujeto a unos límites: primero se compensarán los rendimientos mobiliarios y las ganancias o pérdidas patrimoniales por separado, a partir de ahí si alguna de estas dos partidas presenta saldo negativo, se puede compensar con el positivo de la otra, pero con los siguientes límites: 10%, 15%, 20% y 25% en 2015, 2016, 2017 y 2018, respectivamente.  
+Así, por ejemplo, el que haya obtenido pérdidas patrimoniales por la venta de acciones podrá compensar con ellas aquellos rendimientos obtenidos en depósitos o cuentas corrientes remuneradas, o aquel que haya vendido participaciones preferentes con pérdidas podrás compensar con estas las ganancias patrimoniales derivadas de una venta de acciones o de la venta de un inmueble. 
+   
+
+    Eliminación de plusvalías por dación en pago:  
+
+En ocasiones al hacer una dación en pago el valor de la deuda supera el valor del inmueble, con el consiguiente devengo de una ganancia patrimonial según normativa tributaria. Con la nueva reforma fiscal las plusvalías obtenidas de esta forma quedarán exentas, entendiendo así el Gobierno la realidad económica que existe detrás de estas operaciones. 
+   
+
+    Aumento de la deducción por donativos:  
+
+Las deducciones por donaciones aumentarán del 25% al 30%. Además, las aportaciones de menos de 150 euros tendrán una deducción del 75%. 
+A esto hay que añadirle que si en los dos períodos impositivos anteriores se hubieran realizado donaciones en favor de una misma entidad por importe igual o superior, en cada uno de ellos, al del ejercicio anterior, el porcentaje de deducción aplicable a la base de la deducción en favor de esa misma entidad que exceda de 150 euros, será el 35% 
+Por último destacar que se abre un régimen transitorio para 2015, año en el que el porcentaje de deducción para los primeros 150 € será del 50%, y el aplicable al resto de la base de la deducción, el 27,5%. Cuando resulte de aplicación lo dispuesto en el párrafo anterior el porcentaje de deducción a aplicar será el 32,5%. 
+  
+  
+Sin duda, medidas de cambio muy significativas y que merece la pena ser leídas y analizadas con calma. 
+  
+En la segunda y última parte de este análisis se abordará la reforma fiscal en el campo del Impuesto de Sociedades, Ley Beckham y la regulación del “Exit Tax”. 
+  
+Os recordamos que podéis poneros en contacto con nosotros para cualquier consulta al respecto: 
+  
+www.orbis-corporacion.com 
+  
+asesoria@orbis-corporacion.com 
+tlf. 91 02 50 719 
+  
+ 
+#reformafiscal2015
+
+#asesoriacontable
+
+
+
+
+30 sep 2014
+Medios de pago Internacional
+ 
+ Los medios de pago (o de cobro), utilizados en las transacciones internacionales, son prácticamente los mismos que en el comercio interior, aunque presentan unos factores diferenciadores comunes o peculiaridades respecto a los que se emplean en las operaciones de compraventa en los mercados nacionales. Existen diferentes ordenamientos jurídicos; unos usos y prácticas comerciales diferentes de las de los mercados domésticos; un mayor riesgo de insolvencia, el uso probable de moneda que no es la de nuestro país o zona; el tipo de cambio de las divisas extranjeras; diferentes sistemas bancarios y las propias características (y riegos) de los países del mundo con los que comerciamos. 
+  
+Los instrumentos habituales de pago del mercado nacional, muy característicos son: la orden de pago, la remesa y el crédito documentario, este último específico del comercio exterior. 
+  
+Los medios de pago y cobro, son de pago para quien compra (comprador-importador) y son de cobro para quien vende (vendedor-exportador). 
+  
+Los medios de cobro se pueden clasificar en función de si están sujetos o no a una gestión de documentos, tanto financieros como comerciales: 
+   
+
+    Medios de pago simples, o no documentarios: Están fundamentados en una relación de confianza máxima por ambas partes; los documentos comerciales no están vinculados al pago. Siempre hay una parte que anticipa su obligación, bien el exportador enviando la mercancía o bien el importador anticipando el pago.  
+
+Estos medios de pago son: 
+   
+
+    Los billetes: El término papel moneda hace referencia a cualquier documento con valor fiduciario reconocido y no solamente el dinero de curso legal. En España, se consideran papel moneda: el billete (de banco), el vale real, la obligación al portador, el certificado provisional, el certificado de plata y algunos documentos semejantes.  
+
+   
+
+    El cheque: Es una orden de pago a la vista por el cual una persona (física o jurídica), que a partir de ahora llamaremos librador, ordena a otra (librado) el pago a una tercera (tenedor) de una cantidad de dinero.  
+
+  
+Hay numerosa legislación aplicable. Tanto a nivel local como internacional. La legislación aplicable española es la Ley Cambiaria y del Cheque (Ley 19/1985, de 16 de julio) siguiendo, también, a nivel internacional, la Ley Uniforme de Ginebra sobre el cheque, complementadas y actualizadas, por el paso de los tiempos, con diversas Órdenes y Circulares. 
+   
+
+    La Orden de Pago o Transferencia: Es un medio de pago en el que el importador emite un mandato a su entidad financiera, que será la entidad emisora, para que ponga a disposición del exportador una determinada cantidad de dinero, bien en divisas o en Euros.  
+
+   
+
+    Medios de pago documentarios: Dan mayor seguridad, tanto al comprador como al vendedor, ya que el movimiento de fondos está ligado al intercambio de documentos comerciales o financieros, que otorgan la posesión de la mercancía.  
+
+Estos medios de pago son:  
+
+    La remesa:   
+    La remesa simple, sujeta a gestión de documentos financieros. O cobranza simple, consiste en un efecto (letras de cambio, giros, cheques, pagarés, recibos, etc.) que gira el exportador a cargo del importador por el importe, plazo y que divisa convenidos y permiten al exportador gestionar el cobro de operaciones a través de una entidad financiera.  
+    La remesa documentaria, sujeta a gestión de documentos comerciales y/o financieros. O cobranza documentaria, es un medio de pago mediante el cual el exportador encarga a su entidad financiera la gestión del juego de documentos de exportación acordados con el importador, que pueden ir acompañados o no, de documentos financieros.  
+
+   
+
+    El crédito documentario, sujeto a gestión de documentos comerciales y/o financieros. El crédito documentario es la forma de pago más importante dentro del comercio internacional, ya que es el medio internacional de pago que mejor protege los intereses de las partes intervinientes.  
+
+  
+Es un acuerdo en virtud del cual la entidad emisora, obrando a petición y de conformidad con las instrucciones del ordenante (importador), se compromete frente al beneficiario (exportador), al pago a través de su banco, de un importe contra la presentación de unos documentos dentro del plazo de validez fijado para la utilización del crédito y conforme a los términos y condiciones convenidos. 
+  
+Los factores que determinan la elección de la forma de pago son: 
+   
+
+    La relación entre el importador y el exportador: cuanta mayor confianza haya entre ambos, menores medidas de seguridad habrá que tomar.  
+    La posición de fuerza entre ambas partes: cuanta más fuerza tengas en la negociación, mayores posibilidades tendrás de elegir la forma de pago que más te convenga.  
+    La inestabilidad política o económica, la naturaleza de la mercancía, las costumbres del sector, etc.  
+
+  
+  
+Articulo escrito por ANDREA NEGRIN DIAZ el 30/09/2014
+#comerciointernacional
+
+
+
+
+
+16 junio 2014
+
+Cambio de criterio respecto a la retribución de administradores.
+
+  
+Cartoon_Jake_and_Elwood_faces.pngCartoon_Jake_and_Elwood_faces.png
+En el supuesto de que se satisfagan retribuciones a los administradores, cuyo cargo sea gratuito según las disposiciones estatutarias, por la prestación de servicios de dirección o gerencia, dichas cuantías tienen la consideración de gastos no deducibles con arreglo a lo dispuesto en el artículo 14.1.e) del Texto Refundido de la Ley del Impuesto sobre Sociedades, siendo sólo compatible la relación de carácter laboral por las funciones de gerencia o dirección con la de carácter mercantil del cargo de administrador, cuando las funciones que se realizan por razón de la primera sean distintas de las que llevan a cabo por razón del último cargo y se trate de una actividad específica diversa; en otro caso, ambas relaciones (la mercantil y la laboral) son incompatibles, debiendo prevalecer la calificación mercantil, y sólo se podrá percibir remuneraciones por dicha función cuando esté previsto en los estatutos sociales el carácter remunerado del cargo. 
+  
+SE RECOMIENDA: 
+  
+Que todos los que se encuentren en esta situación actualmente, pueden ponerse en contacto con nosotros para poder estudiar la mejor forma de poder seguir percibiendo un rendimiento de su propia sociedad mercantil, sin incurrir en posibles comprobaciones e infracciones de índole tributaria. 
+  
+Si quiere consultar con un asesor fiscal de nuestro despacho alguna de las situaciones anteriormente descritas, no dude en ponerse en contacto de las siguientes formas: 
+  
+WWW.ORBIS-CORPORACION.COM 
+TLF.: 91 02 50 719 
+asesoria@orbis-corporacion.com 
+ 
+#administradordesociedades
+
+
+
+
+
+16 jul 2014
+Responsabilidad de los Administradores de Sociedades frente a Acreedores en caso de Quiebra
+
+
+
+545x350-rc-administradores-directivos-em.jpg545x350-rc-administradores-directivos-em.jpg
+¿Tiene usted alguna factura de su negocio pendiente de cobro y la empresa que fue su cliente no la ha pagado porque ha devenido insolvente o simplemente ha desaparecido? 
+
+Se tiende a pensar que si la empresa morosa es una sociedad limitada el acreedor ya no tiene forma posible de cobrar, porque la responsabilidad se ciñe únicamente al capital social y a los bienes o activos que pudiera tener aquella. 
+
+Pues bien, esto no es siempre así. El derecho español ofrece unos mecanismos legales que permiten superar la separación entre el patrimonio de la empresa morosa y el patrimonio personal del administrador de dicha sociedad. 
+
+¿Qué quiere decir esto? Básicamente que si la empresa morosa no tiene liquidez para pagar su factura por el trabajo o servicio que usted le prestó, en determinadas circunstancias usted puede dirigirse directamente contra el patrimonio personal del administrador de dicha empresa y cobrar su factura con cargo a los bienes personales de dicho administrador. 
+
+Podremos derivar la responsabilidad a los administradores cuando la empresa haya cesado su actividad y aquellos no hayan cumplido las obligaciones legales que les corresponden en estos casos, fundamentalmente la obligación de instar el concurso de acreedores. 
+
+Cuando existe legalmente una causa legal de disolución de la sociedad, como la existencia de pérdidas que dejen reducido el patrimonio neto a una cantidad inferior a la mitad del capital social, los administradores deben solicitar la declaración de concurso de acreedores, o convocar la Junta general para que adopte el acuerdo de disolución en el plazo de dos meses desde que hayan conocido esa causa legal de disolución. 
+
+Si los administradores de la sociedad incumplen tales obligaciones, responden solidariamente junto con la sociedad de las deudas posteriores a la producción de la causa legal de disolución. 
+
+En definitiva, los administradores de una empresa no pueden, cuando se produce una crisis económica, limitarse sin más a “cerrar el chiringuito” y dejar abandonados a los acreedores sin cumplir sus obligaciones legales dirigidas a protegerles. En caso de comportarse así, la sanción es gravísima: responderán con sus bienes personales de las deudas de la empresa. 
+
+Si quiere consultar con un asesor fiscal de nuestro despacho alguna de las situaciones anteriormente descritas, no dude en ponerse en contacto de las siguientes formas: 
+
+WWW.ORBIS-CORPORACION.COM 
+TLF.: 91 02 50 719 
+asesoria@orbis-corporacion.com
+#derechoconcursal
+
+
+
+
+8 jul 2014
+Trucos para pagar menos a Hacienda como personas físicas
+
+ 
+ Vender acciones, invertir en fondos o colegiarse profesionalmente son algunas de las recetas que puede seguir para pagar menos en su declaración de la renta sin faltar a sus obligaciones fiscales.  
+  
+Es más que evidente que pagar el IRPF es una obligación que todos los españoles debemos cumplir. Sin embargo, siguiendo una serie de indicaciones se puede reducir la cantidad que se tributa, siempre dentro de la legalidad, si se es previsor y si se actúa antes de que termine el ejercicio fiscal. 
+  
+El despacho jurídico y económico ORBIS CORPORACION Abogados y Economistas, ha elaborado una serie de "trucos" para evitar de pagar más en vuestra factura con hacienda! 
+  
+1. Opte por el pago en especie: comedor, transporte, guardería, .. 
+Puede tributar menos el próximo año si acuerda con su empresa cobrar una parte de su salario en especie en lugar de en metálico, eligiendo retribuciones exentas que le convengan (tarjetas para transportes colectivo desde casa al trabajo, cheques o tarjetas restaurante, acciones de la empresa, seguros sanitarios, cursos de formación, servicios de guardería, etc).  
+  
+2. No olvide ningún gasto: colegios profesionales, cuotas sindicales, ... 
+Ciertos gastos se descuentan de los rendimientos del trabajo. Entre ellos se incluyen las cuotas sindicales, las de afiliación al colegio profesional de abogados, de médicos o arquitectos. Si ha tenido algún juicio suscitado por su empresa, puede descontar los gastos del abogado y del procurador hasta los 300 euros.  
+  
+3. Si ha vendido un fondo o un inmueble con ganancias, genere pérdidas o compénselas 
+Las ganancias de patrimonio que haya conseguido este año al vender un fondo, un inmueble o unas acciones puede "reducirlas" vendiendo" con pérdidas algún bien con pocas perspectivas de revalorización. También puede aprovechar para compensar pérdidas que haya sufrido entre 2007 y 2010 y todavía no haya restado.  
+  
+  
+4. Si ha tenido pérdidas, aproveche para sacar a la luz las ganancias 
+Si al vencer el fondo, un inmueble o cualquier otro bien ha tenido pérdidas este año o bien en algún ejercicio anterior que todavía no haya compensado, le traerá cuenta vender alguna posesión para obtener ganancias con las que equilibrar esas pérdidas pendientes. De esta forma, tributaría menos por los rendimientos obtenidos que si espera a materializarlos en otro momento.  
+  
+5. Si le han robado o ha pagado una indemnización, compénselo 
+Las pérdidas de patrimonio no siempre son consecuencia de una transmisión, es decir, de una venta o de una donación. También se considera una pérdida compensable, por ejemplo, un robo en su domicilio o si ha tenido que pagar una indemnización.  
+  
+6. Los rendimientos del ahorro se compensan entre sí 
+Los rendimientos del ahorro, que son los que generan las cuentas, los depósitos o los fondos, si son negativos se pueden compensar con los positivos de años siguientes. Si tuvo ese saldo negativo entre 2007 y 2010, puede restarlo de sus rendimientos del ahorro de 2011, disminuyendo así su base imponible.  
+  
+7. No supere 6.000 euros de rendimiento de capital y ganancias 
+Los primeros 6.000 euros de ganancias derivadas de una transmisión y rendimientos de capital mobiliario obtenidos en el ejercicio 2011 se gravan al 19%. A partir de esa cifra, tributan al 21%. Para evitar esa tributación menos beneficiosa, le conviene fraccionar la venta de acciones o fondos de inversión aplazando a 2012 la venta de la parte que pagaría a un tipo superior.  
+  
+8. Invierta sus ahorros en fondos 
+Las ganancias que se obtienen con los fondos de inversión se computan como parte de la base imponible, pero sólo hay que declararlas en el año en que venda participaciones. Por el contrario, si invierte sus ahorros en depósitos, los rendimientos se declaran anualmente haciendo crecer la base imponible.  
+  
+ERRORES QUE LE HARÁN TRIBUTAR MÁS 
+  
+* Donar bienes que generen pérdidas en el IRPF, porque la ley no permite compensarlas. Es preferible vender para poder compensar la pérdida y luego donar el dinero obtenido.  
+  
+* Vender la vivienda habitual si está cercano a cumplir los 65 años, porque si espera hasta tener esa edad, las ganancias de la venta están exentas de la tributación.  
+  
+* Aportar a planes de pensiones, porque ya no tienen la reducción del 40% al cobrarse en forma de capital. Con la nueva Ley de IRPF, las aportaciones siguen teniendo ventajas fiscales, pero el tratamiento fiscal que se dispensa a la recuperación del plan elimina el beneficio en casi todos los casos.  
+  
+* Acordar con su empresa que haga aportaciones a planes de pensiones, porque esas cantidades se suman a su base imponible. Al final no tributan, porque se descuentan de la base liquidable, pero pueden hacer perder algunas deducciones.  
+  
+* Ahorrar en una cuenta vivienda si su base imponible supera los 24.107,20 euros, pues no podrá aplicar deducción por lo aportado.  
+  
+* Cobrar indemnizaciones por daños personales sin pasar por el juzgado porque, si estuviera acordada por un juez, quedaría exenta de tributar.  
+  
+Un contribuyente medio puede ahorrar más de mil euros en su declaración de la renta antes de que termine el año si se acoge a algunas de las deducciones más comunes y aprovecha los cambios introducidos en el IRPF. 
+  
+Además, si invierte hasta 6.000 euros en algunas de estas partidas antes del 31 de diciembre podría ahorrarse entre 735 y 1.680 euros adicionales, según las recomendaciones del colectivo. El ahorro varía en función de la renta. 
+  
+Así, se explica que el ahorro que puede conseguir un "mileurista" con las cinco deducciones más comunes del IRPF es de 1.948 euros, pero llega a 2.222 euros si el contribuyente gana 30.000 euros anuales y a 6.171 euros si gana 150.000 euros. 
+Entre las deducciones a las que pueden acogerse en esta recta final de año, los técnicos aconsejan realizar un adelanto de parte de la hipoteca, algo que puede reportar hasta 624 euros adicionales. 
+  
+En las obras en el hogar, la deducción puede llegar a los 1.154 euros y si los contribuyentes tienen algún proyecto emprendedor pueden aprovechar la fiscalidad de las cuentas ahorro-empresa para lograr un máximo de 282 euros adicionales. 
+  
+Por otro lado, las cuotas de afiliación y donativos a ONG y a otras entidades sin ánimo de lucro pueden reducir la tributación en un 25% y 10%, respectivamente. Y llega al 30% en donaciones a programas prioritarios de mecenazgo, como la conservación, restauración y rehabilitación de los bienes del Patrimonio Histórico Español. 
+  
+De hecho, también existe la posibilidad de realizar una donación a partidos políticos, lo que supondría un ahorro real de hasta 336 euros en la declaración de la renta. 
+  
+Además se recuerda que los últimos días del año son idóneos para realizar aportaciones a planes de pensiones, puesto que pueden suponer un ahorro de entre un 24,75% y un 52% de la inversión realizada. 
+  
+En algunas comunidades como Andalucía o Cataluña el ahorro llega al 56%. 
+  
+Además, la ventaja fiscal de estas aportaciones es mayor en 2012 y 2013 por el gravamen complementario que creó el Gobierno para el IRPF. 
+  
+Si quiere consultar con un asesor fiscal de nuestro despacho alguna de las situaciones anteriormente descritas, no dude en ponerse en contacto de las siguientes formas: 
+  
+WWW.ORBIS-CORPORACION.COM 
+TLF.: 91 02 50 719 
+asesoria@orbis-corporacion.com
+#impuestosypersonas
+
+
+
+
+
+
+3 jun 2014
+
+La Declaración de la Renta y los Autónomos
+Los trabajadores autónomos, como cualquier otro contribuyente que haya obtenido rentas sujetas al IRPF, están obligados a presentar la declaración de la renta siempre que al menos tengan rentas superiores a 1.000 euros (sumando rendimientos íntegros del trabajo, del capital o de actividades económicas, así como ganancias patrimoniales) o pérdidas patrimoniales de cuantía superior a 500 euros, en tributación individual o conjunta. 
+  
+Una de las primeras dificultades a las que se enfrenta el trabajador autónomo es que Hacienda, al contrario de lo que ocurre con los trabajadores por cuenta ajena (para quien Hacienda suele tener toda la información fiscal facilitada por las empresas donde trabajan), no disponen de datos fiscales actualizados con sus rendimientos por la actividad profesional o empresarial que desempeñan, es decir, información sobre gastos e ingresos. 
+  
+Así que llegados a este punto toca armarse de valor, hacer acopio de toda la documentación contable de la que dispongamos, y ponerse manos a la obra. 
+  
+Trabajadores en estimación directa normal o simplificada 
+Este método de estimación sigue parámetros muy similares al Impuesto de Sociedades, es decir, se calculan los ingresos brutos (sin contabilizar el IVA, que recordemos que ni es ingreso ni es gasto a ningún efecto pues el autónomo actúa como mero intermediario en su recaudación y liquidación) y se restan los gastos fiscalmente deducibles. 
+  
+Cabe recordar en este punto que tenemos que diferenciar lo que son gastos contables y lo que son gastos fiscalmente deducibles. Un ejemplo son las amortizaciones, las cuales pueden estar sujetas a libertad en su uso a nivel contable pero limitadas a efectos fiscales, diferencias que por supuesto hay que regularizar. Otro ejemplo significativo son las multas de tráfico o sanciones administrativas las cuales no podemos deducir en nuestra declaración. 
+  
+Una vez que tenemos el resultado neto solo queda comprobar si podemos aplicarnos reducciones de algún tipo. Hay dos que no se calculan automáticamente y que pueden ser muy interesantes, las cuales, por su gran importancia, pasamos a transcribir según vienen redactadas en la ley: 
+  
+- Reducción por mantenimiento o creación de empleo: “En cada uno de los períodos impositivos 2009, 2010, 2011, 2012, 2013 y 2014, los contribuyentes que ejerzan actividades económicas cuyo importe neto de la cifra de negocios para el conjunto de ellas sea inferior a 5 millones de euros y tengan una plantilla media inferior a 25 empleados, podrán reducir en un 20 por 100 el rendimiento neto positivo declarado, minorado en su caso por las reducciones previstas en el artículo 32 de la LIRPF, correspondiente a las mismas, cuando mantengan o creen empleo. 
+  
+A estos efectos, se entenderá que el contribuyente mantiene o crea empleo cuando en cada uno de los citados períodos impositivos la plantilla media utilizada en el conjunto de sus actividades económicas no sea inferior a la unidad y a la plantilla media del período impositivo 2008. 
+  
+El importe de la reducción así calculada no podrá ser superior al 50 por ciento del importe de las retribuciones satisfechas en el ejercicio al conjunto de sus trabajadores. 
+  
+La reducción se aplicará de forma independiente en cada uno de los períodos impositivos en que se cumplan los requisitos. 
+  
+Para el cálculo de la plantilla media utilizada a que se refiere el apartado 1 anterior se tomarán las personas empleadas, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada en relación con la jornada completa y la duración de dicha relación laboral respecto del número total de días del período impositivo. 
+  
+No obstante, cuando el contribuyente no viniese desarrollando ninguna actividad económica con anterioridad a 1 de enero de 2008 e inicie su ejercicio en el período impositivo 2008, la plantilla media correspondiente al mismo se calculará tomando en consideración el tiempo transcurrido desde el inicio de la misma. 
+  
+Cuando el contribuyente no viniese desarrollando ninguna actividad económica con anterioridad a 1 de enero de 2009 e inicie su ejercicio con posterioridad a dicha fecha, la plantilla media correspondiente al período impositivo 2008 será cero. 
+  
+Cuando el contribuyente no viniese desarrollando ninguna actividad económica con anterioridad a 1 de enero de 2009 e inicie su ejercicio en 2009, 2010, 2011, 2012, 2013 ó 2014, y la plantilla media correspondiente al período impositivo en el que se inicie la misma sea superior a cero e inferior a la unidad, la reducción establecida se aplicará en el período impositivo de inicio de la actividad a condición de que en el período impositivo siguiente la plantilla media no sea inferior a la unidad. 
+  
+El incumplimiento de este requisito implica la no aplicación de la reducción en el período impositivo de inicio de su actividad económica, debiendo presentar una autoliquidación complementaria, con los correspondientes intereses de demora, en el plazo que medie entre la fecha en que se incumpla el requisito y la finalización del plazo reglamentario de declaración correspondiente al período impositivo en que se produzca dicho incumplimiento.” 
+  
+- Inicio de actividad posterior a 2013 con resultado neto positivo: “Podrán reducir en un 20 por ciento el rendimiento neto reducido en el primer período impositivo en que el mismo sea positivo y en el período impositivo siguiente. 
+  
+Se entenderá que se inicia una actividad económica cuando no se hubiera ejercido actividad económica alguna en el año anterior a la fecha de inicio de la misma, sin tener en consideración aquellas actividades en cuyo ejercicio se hubiera cesado sin haber llegado a obtener rendimientos netos positivos desde su inicio. 
+  
+Cuando con posterioridad al inicio de la actividad a que se refiere el párrafo primero anterior se inicie una nueva actividad sin haber cesado en el ejercicio de la primera, la reducción prevista en este apartado se aplicará sobre los rendimientos netos obtenidos en el primer período impositivo en que los mismos sean positivos y en el período impositivo siguiente, a contar desde el inicio de la primera actividad. 
+  
+La cuantía de los rendimientos netos a que se refiere este apartado sobre la que se aplicará la citada reducción no podrá superar el importe de 100.000 euros anuales. 
+  
+No resultará de aplicación la reducción prevista en este apartado en el período impositivo en el que más del 50 por ciento de los ingresos del mismo procedan de una persona o entidad de la que el contribuyente hubiera obtenido rendimientos del trabajo en el año anterior a la fecha de inicio de la actividad.” 
+  
+Trabajadores en estimación objetiva 
+Este método de estimación funciona mediante módulos legalmente establecidos, sin tener en cuenta el resultado neto de nuestra explotación o actividad. Es decir, aquel que tenga un restaurante, por ejemplo, y este acogido a este régimen, tributará en función del número de mesas y sillas que tenga, longitud de barra de bar o superficie del local, entre otros. 
+  
+Será el propio programa PADRE el que hará el cálculo automático en función de los datos respecto a las características del negocio que nosotros introduzcamos. Aspectos como la población del municipio donde ejercemos nuestra actividad, el tamaño de nuestra empresa o la tipología de actividad que desarrollemos influyen a la hora del cálculo de los índices correctores que se vayan a aplicar. 
+  
+También aparecen incentivadas el mantenimiento y creación de empleo así como nuevas inversiones. 
+  
+Sobre el resultado final de nuestros rendimientos de actividades económicas podrán aplicarse cualesquiera reducciones y deducciones aplicables al común de los contribuyentes, sin distinción alguna. 
+  
+El que nos salga a pagar o a devolver dependerá de la diferencia entre el resultado final de la declaración y todas aquellas cantidades que ya hayamos ingresado a cuenta a través del modelo 130 o 131, según el caso, y todas las retenciones que nuestros clientes nos hayan ido practicando sobre las facturas. Estas cantidades deben ser introducidas a mano por nosotros, pues es información que la Agencia Tributaria no descarga sobre nuestros datos fiscales, pero que a posteriori puede revisar para comprobar que lo declarado, liquidado y retenido es coincidente. 
+  
+También es conveniente solicitar a Hacienda los  datos fiscales, especialmente en el caso de profesionales que efectúan retenciones, ya que nos aportan una información que nos indica lo que sabe Hacienda de nosotros a través de nuestros clientes, en concreto quienes han pagado a Hacienda esas retenciones que nosotros hemos practicado en nuestras facturas. 
+  
+Así que sin más les deseamos lo mejor, no sin antes recordarles que, si se ven en dificultades, consulten con un asesor. 
+WWW.ORBIS-CORPORACION.COM 
+TLF.: 91 02 50 719 
+asesoria@orbis-corporacion.com 
+ 
+#declaraciondelarentaautonomos
+
+
+
+
+2 abr 2014
+
+Comienza ya la campaña de la renta 2013
+Como cada año por estas fechas comienza la Campaña de la Renta, fechas dulces para aquellos a quien la presentación del famoso modelo 100 les salga a devolver y amargas para quienes les toque pagar. Será a partir de Martes 1 de Abril cuando estará ya disponible telemáticamente el borrador y datos fiscales para todos los contribuyentes que tengan derecho al mismo, recordemos que el borrador no solo puede ser confirmado, sino también modificado.  
+  
+Desde aquí recomendamos encarecidamente la revisión de los borradores, raro es aquel que no omite alguna deducción a favor del contribuyente (especialmente las autonómicas) o contiene errores u omisiones de cualquier tipo. 
+Si preferimos hacer o revisar nuestra declaración a través del programa de ayuda PADRE tendremos de plazo entre el 23 de abril y el 30 de junio, aunque si el resultado es a ingresar (a favor de Hacienda), el plazo se acorta al 25 de junio.La presentación de la Declaración de Renta 2013 que se haga directamente en los bancos, delegaciones y administraciones de Hacienda, entidades colaboradoras y Comunidades Autónomas, tendrá de plazo entre el 5 de mayo y el 30 de junio de 2014.  
+  
+De nuevo, si el resultado es a favor de Hacienda el plazo es solo hasta el 25 de junio. Como en cada Campaña vamos a destacar todas las novedades y puntos importantes que debemos tener en cuenta: 
+  
+Este año los contribuyentes tendrán a su disposición un nuevo sistema de firma con clave de acceso al registrarse como usuarios en la web, de esta forma podrán proceder al pago si la declaración les sale a ingresar y acceder a su borrador y datos fiscales. Además se ha eliminado la posibilidad de presentar la declaración de la renta rellenada a mano. El borrador y los datos fiscales no podrán ser solicitados este año para su envío vía correo ordinario.  
+  
+La única posibilidad de poder recibir esta información por esta vía es haberlo solicitado el año anterior y no haber accedido a la misma previamente vía web. En lo relativo a aspectos puramente materiales destaca la nueva deducción del 20% por la inversión en empresas de nueva o reciente creación y la eliminación de la deducción por vivienda para las compras de inmuebles que hayan tenido lugar antes del 1 de enero de 2013.  
+  
+Todas aquellas viviendas adquiridas antes de dicha fecha conservan la deducción a futuro mientras no haya un cambio normativo que lo contradiga.  
+  
+El Impuesto sobre Patrimonio se mantiene aunque habrá que estar atentos a las posibles bonificaciones de cada Comunidad Autónoma. En alguna de ellas, como en Madrid, la bonificación es del 100%  
+  
+Los fondos de inversión no devengarán ganancias o pérdidas patrimoniales si estos son reinvertidos en nuevos fondos. Respecto a valores como las acciones hay cambios sustanciales para 2013. Hasta 2012 las ganancias patrimoniales tributaban por la base imponible del ahorro mientras que para 2013 sólo tributarán por esta vía si entre la compra y la venta media al menos un año, en caso contrario las plusvalías irán a la base imponible general donde además de someterse a tipos más altos se sumarán a los rendimientos del trabajo con el perjuicio fiscal que esto supone. Conviene recordar también que sólo generarán pérdidas si entre la venta y la compra de títulos homogéneos (en caso de que se produzca) media un plazo mínimo de dos meses para valores cotizados y un año para los no cotizados. La venta de derechos de suscripción es otro de los campos habituales que generan confusión en el contribuyente.  
+  
+Dicha venta no genera un rendimiento de capital mobiliario si no que disminuye el precio de adquisición de los valores que los han generado, de tal forma que hasta que esos valores no sean vendidos no habrá tributación real para los derechos. Las aportaciones a los planes de pensiones reducen la base general del IRPF.  
+  
+Los beneficios que se generen por esta vía tributarán sólo en el momento de su percepción en forma de pensión como un rendimiento de trabajo más. Se mantiene el límite de 22.000 euros los rendimientos íntegros de los contribuyentes que no están obligados a presentar la declaración de la renta cuando procedan de un sólo pagador (si tienen más de un pagador la suma de las cantidades percibidas del segundo y restantes no puede superar los 1.500 euros).  
+  
+Desde aquí aconsejamos siempre el uso de la Sede Electrónica de la Agencia Tributaria y el uso de los medios telemáticos que estén a vuestra disposición, y que no son pocos.  
+  
+El colapso en las oficinas en estas fechas es importante y todo el flujo de gente que podamos reducir será siempre bienvenido.Y por supuesto, la división de asesoría fiscal de Orbis Corporación queda a vuestra disposición para serviros en lo que haga falta, desde la revisión, modificación y confirmación de borradores hasta presentaciones y estudios completos personalizados. 
+  
+Si quieren saber más sobre el tema y/o concertar una reunión con nosotros, no duden en ponerse en contacto al: 
+tlf.: 91 57 98 292 
+móvil: 645 96 80 93 
+asesoria@orbis-corporacion.com 
+  
+Aprovechamos la ocasión para enviarle un cordial saludo. 
+  
+Sin más, solo nos queda desearos una feliz Campaña de la Renta 2013.  
+ 
+#declaracióndelarentairpf2013
+
+
+7 mar 2014
+
+
+
+Obligación de retener por Comunidad de Propietarios por los servicios pagados a un profesional
+
+CONSULTA VINCULANTE FECHA-SALIDA 10/01/2014 (V0022-14) 
+  
+DESCRIPCIÓN DE LOS HECHOS: Se describe en la cuestión planteada. 
+  
+CUESTIÓN PLANTEADA: Si los rendimientos de la actividad profesional de la consultante percibidos de una comunidad de propietarios se encuentran sujetos a retención en el Impuesto sobre la Renta de las Personas Físicas. 
+  
+CONTESTACION-COMPLETA: Según establece el artículo 74.1 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo (BOE de 31 de marzo), la obligación de practicar retenciones e ingresos a cuenta del IRPF se produce cuando las personas contempladas en el artículo 76 del mencionado Reglamento satisfagan o abonen las rentas previstas en el artículo 75 del mismo. En el artículo 76 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo (BOE de 31 de marzo) se definen los obligados a retener o a ingresar a cuenta del IRPF. Entre estos obligados a retener o a ingresar a cuenta, la letra a) del apartado 1 incluye a las comunidades de propietarios. Por su parte, en el artículo 75 del Reglamento del Impuesto se definen las rentas sujetas a retención, entre las que se encuentran los rendimientos de actividades profesionales (apartado 1, letra c).  
+  
+En consecuencia, como los rendimientos obtenidos se encuentran incluidos entre las rentas sometidas a retención a cuenta y la comunidad de propietarios, que abona los mismos, está incluida entre los obligados a retener, existirá obligación, por parte de esta, de practicar retención a cuenta sobre los importes facturados por la consultante en el ejercicio de su actividad profesional. 
+  
+Lo que comunico a Vd. con efectos vinculantes, conforme a lo dispuesto en el apartado 1 del artículo 89 de la Ley 58/2003, de 17 de diciembre, General Tributaria
+#comunidadesdepropietarios
+
+7 mar 2014
+
+
+Llega la nueva tarifa plana para incentivar la contratación indefinida
+
+Las empresas y autónomos que contraten a un nuevo trabajador indefinido sólo pagarán 100 euros mensuales en la cotización a la Seguridad Social por contingencias comunes durante los primeros 24 meses, siempre y cuando esta contratación suponga la creación neta de empleo estable. 
+  
+1. Aspectos generales del Real Decreto-ley 3/2014, de 28 de febrero. 
+  
+a) Podrán beneficiarse de esta disminución todas las empresas o autónomos, al margen de su tamaño e independientemente de la edad del trabajador. 
+b) Además, también se aplicará la reducción cuando la persona contratada sea hijo de un trabajador autónomo, menor de 30 años, o mayor de dicha edad, en caso de que tengan especiales dificultades por su inserción laboral. 
+c) La disminución de la cotización se establece en las siguientes cuantías:- Si la contratación es a tiempo completo: 100 euros mensuales- Si la contratación equivale a un 75% de la jornada de un trabajador: 75 euros mensuales.- Si la contratación equivale a un 50% de la jornada de un trabajador: 50 euros mensuales. 
+d) Estas reducciones se aplicarán durante un periodo de 24 meses, computados a partir de la fecha del contrato. 
+e) Aquellas empresas que, en el momento de celebrar el contrato en el que se aplica la bonificación, tengan menos de 10 trabajadores, podrán optar a una reducción del 50% durante 12 meses adicionales. 
+  
+2. Para beneficiarse de esta medida, las empresas deberán cumplir los siguientes requisitos: 
+  
+a) Hallarse al corriente en el cumplimiento de sus obligaciones tributarias y de Seguridad Social. 
+b) No haber realizado despidos colectivos o despidos individuales que sean declarados improcedentes en los seis meses anteriores a la celebración de los nuevos contratos. 
+c) Los contratos deben suponer un incremento tanto del nivel de empleo indefinido como del nivel de empleo total de la empresa. Para calcular dicho incremento, se tomará como referencia el promedio diario de trabajadores que hayan prestado servicios en la empresa en los 30 días anteriores a la celebración del contrato. 
+d) Las empresas deberán mantener el nivel de empleo total y el nivel de empleo indefinido en los tres años siguientes a la fecha del contrato. 
+  
+En caso contrario, deberán devolver, total o parcialmente, las cantidades que se han ahorrado.Le recordamos que nuestros técnicos están a su disposición para cualquier duda que necesiten aclarar. 
+  
+Si quieren saber más sobre el tema y/o concertar una reunión con nosotros, no duden en ponerse en contacto al: 
+tlf.: 91 57 98 292 
+móvil: 645 96 80 93 
+asesoria@orbis-corporacion.com 
+  
+Aprovechamos la ocasión para enviarle un cordial saludo.
+#asesoríalaboral #incentivosalacontratación #tarifaplana
+
+
+
+
+1 mar 2014
+
+Firma digital: obligación para unos y revolución para otros
+
+La Agencia Tributaria (AEAT) impone –desde el 01 de enero de 2014- que todas las autoliquidaciones y declaraciones anuales del Impuesto del Valor Añadido (IVA) se tengan que formalizar a través de Internet. Este nuevo requisito está provocando una falta de información entre muchos autónomos y pequeñas empresas todavía no familiarizados con la firma electrónica, incluidos algunos profesionales del sector legal, reacios a dar el salto a las nuevas tecnologías. Sin embargo, si algún sector es pionero en cuanto al desarrollo de herramientas de firma y certificado electrónico se refiere, es precisamente, el de la abogacía. En 2003, el Consejo General de la Abogacía Española (CGAE) creó Autoridad de Certificación de la Abogacía (ACA), una entidad independiente y reconocida por todos los agentes sociales para acreditar la condición de abogado, que está facilitando la vida a los profesionales del sector y que se ha convertido ya en el primer prestador de certificación privado en España. Todos los colegios de abogados han implantado el sistema ACA entre sus colegiados, con la única excepción del Colegio de Abogados de Madrid (ICAM), que utiliza el sistema de certificación de la Fábrica Nacional de Moneda y Timbre (FNMT). ¿Ventajas de uno frente a otro sistema? Tanto en el Consejo General de la Abogacía como en la CAM aseguran que ambos son igual de efectivos, aunque por eso de ser todos iguales y evitar diferencias, el órgano superior de la abogacía ya está en “conversaciones para que el colegio de la capital se una también al certificador ACA”. 
+
+“Progresivamente, los colegiados van utilizando la firma digital a través de ACA. Tiene una buen grado de aceptación, una vez que los abogados se familiarizan con ella”, explica, Pedro Luis Huguet, vicepresidente del Consejo General de la Abogacía Española y presidente de la Comisión de Programa, Estructuras y Aplicaciones Informáticas para la Abogacía y la Justicia, quien afirma que uno de los servicios que está siendo más valorado por los abogados, a través de la firma electrónica, es el pase a prisión. “Antes tenías que ir al colegio, buscar el volante, lo que significaba pérdida de tiempo. Ahora, gracias a la firma digital, el abogado puede entrar a cualquier hora a prisión”, cuenta Huguet. 
+
+Así, con una autorización impresa y firmada electrónicamente acceder a un pase de prisión simplifica con fuerza los trámites burocráticos y reduce los tiempos de espera habituales.Ahorra costes para el abogado, ya que se evitan gran parte de los desplazamientos habituales y la realización de trámites en soporte papel. Además, no es necesario ajustarse a horarios: el sistema funciona 24 horas al día, 365 días del año. “No hay que olvidar que con la firma digital se garantiza la condición de abogado del preso por el que solicita la visita, evitando intrusismos que perjudican nuestra profesión”, explican en CGAE. Por su parte, además, el personal de los centros penitenciarios cuenta con una herramienta para verificar la validez de un pase a prisión mediante el código que aparece en el mismo. 
+
+Ahorro de costes y tiempo 
+Con la firma digital, los colegiados acceden a otros servicios que les puede facilitar su actividad y recortar gastos, algo necesario en estos momentos de crisis económica y una creciente competencia entre los despachos. Así está el servicio BuroSMS, con el que el profesional puede enviar comunicaciones certificadas para que su destinatario lo reciba en cualquier lugar y a cualquier hora (con acuse de recibo y plena validez jurídica). Esta fórmula tiene la ventaja de que ahorra costes y tiempo frente a las cartas certificadas (es hasta un 80% más económico que los envíos tradicionales). También está el servicio de Buromails, que ofrece la posibilidad de realizar la tramitación certificada de documentos a través de correo electrónico seguro, con otros usuarios de certificado ACA; y otros usuarios (Abogados, Colegios de Abogados y otras Instituciones del colectivo de la Abogacía). 
+
+Además hay un servicio para ayudara al abogado a cumplir con la prevención del blanqueo de capitales y la financiación del terrorismo  -el profesional está obligado a cumplir por la Ley 10/2010, de 28 de Abril-. Con una simple consulta, el abogado puede identificar a su cliente y acceder a bases de datos públicas con información actualizada continuamente. Con la firma electrónica el abogado puede, además, presentar de forma directa los escritos a los juzgados y recibir las notificaciones de los procedimientos que tengas abiertos a través de la plataforma Lexnet. 
+
+Cumplir con el ‘fisco’ 
+Pero las ventajas de la firma digital ACA van más allá de las tareas cotidianas del abogado y se extienden a las obligaciones con Hacienda y las administraciones públicas. Cada año se incrementa el número de abogados españoles que presenta sus declaraciones del Impuesto sobre la Renta y las de sus clientes por Internet usando el carné digital que le proporciona su colegio. 
+
+En la última campaña de la Renta, la correspondiente al ejercicio fiscal de 2012, los abogados españoles han presentado 27.695 declaraciones del IRPF con el certificado digital ACA a través de la página web de la Agencia Tributaria (www.aeat.es). Esta cifra supone un incremento superior al 13% con respecto al ejercicio pasado. La Autoridad de Certificación de la Abogacía se convierte así en el primer prestador de servicios de certificación privado, sólo superado por la Fábrica Nacional de Moneda y Timbre –sistema mediante el cual un creciente número de colegiados madrileños también presenta la declaración de la renta- y muy cercano a las 34.000 declaraciones de renta presentadas con el DNI-E. 
+  
+El uso del certificado digital de abogado para la relación con la Administración Pública está cada vez más extendido, gracias en parte a la Ley de Administración Electrónica (11/2007), que entró en vigor a finales de 2009 y da derecho a los ciudadanos a la realización de trámites electrónicos con la Administración. Desde entonces, el certificado digital de abogado, inserto en el carné colegial, habilita a los letrados españoles para la realización de cualquier tipo de trámite telemático con la Administración Pública, siempre con plena validez jurídica y de modo análogo a la firma manuscrita en el entorno tradicional. 
+  
+Pero aunque en aumento, las algo menos de 28.000 declaraciones presentadas con el certificado ACA no son muchas si tenemos en cuenta que en los 83 colegios de abogados censados hay un total de 189.597 letrados. Sin duda, todavía queda un largo camino que recorrer para que el certificado digital de los colegios se incorpore totalmente a la actividad profesional de los abogados. En el sector de la abogacía, como en otras profesiones, el grado de utilización de la firma digital, aunque en constante avance, sigue siendo bajo. Muchos abogados solo la utilizan cuando están obligados a ello como ahora con Hacienda con la liquidación del IVA. 
+Según un informe realizado por la firma Adverados, sólo un 1% de las empresas españolas utiliza la firma electrónica en su actividad de manera natural (contratos, pedidos, nóminas y notificaciones a clientes y proveedores, etcétera.) “a pesar de las notables ventajas que aporta, debido a la complejidad de las soluciones existentes y por haber sido desarrollada sin pensar en el usuario final, que la rechaza por su escasa usabilidad”. El análisis realizado por esta empresa tecnológica es de hace un año pero según fuentes del sector la situación no ha cambiado mucho en los últimos 12 meses. 
+  
+Según el informe, en el conjunto de las empresas, la firma digital sólo es usada para los trámites con Administración Pública, pago de impuestos y Seguridad Social y, de manera testimonial, para emitir facturas electrónicas, pese a que, prácticamente, la mitad de las empresas españolas posee un certificado digital (paso previo para usar la firma digital y realizar comunicaciones certificadas) y su uso, según declaran ellas mismas, se distribuye entre trámites con la Administración Pública (72%), pago de impuestos (22%) y banca electrónica (25%). 
+  
+Baja implantación 
+Muchas pequeñas y medianas empresas pese a disponer de certificados digitales previeren seguir su forma tradicional de envíos y reenvíos de faxes, a la hora de firmar documentos. “En algunos casos, no se fían del todo de la seguridad electrónica. Sigue habiendo desconfianza”, explica en una asociación de empresarios y, en ocasiones, en medio de la crisis económica, no quieren invertir en la tecnología que les permite usar con facilidad los certificados electrónicos. 
+Sólo el 11% de las empresas con certificado, es decir un 5% del total de compañías españolas, emite facturas electrónicas con firma. Centrándonos en este último grupo (5%),  el 14% (es decir, apenas un 0,7% del total de empresas españolas), asegura emitir todas sus facturas en formato electrónico, el 36% (un 1,8%), declara que lo hace con el 50% de sus facturas y el 33% (un 1,65% del total de las empresas de nuestro país), factura electrónicamente menos del 10%. En cuanto al uso del DNI-e, el informe de Adverados señala que el uso privado de este documento para comunicaciones certificadas ronda el 1% sobre el total de ciudadanos que lo poseen. 
+  
+La principal razón del fracaso de la firma digital en España está en la complejidad generalizada desde el punto de vista del usuario final de los sistemas y soluciones existentes en el mercado. La aplicación de la firma electrónica  topa con las dificultades que ponen los navegadores, cada uno una distinta. Adverados, en su informe, precisa que no hay aplicaciones que permitan firmar digitalmente un documento con la simplicidad con que un usuario manda imprimir un documento o envía un correo electrónico. “Firmar electrónicamente lleva mucho tiempo y los usuarios prefieren enviar el documento sin hacerlo o mandarlo a imprimir y hacer una firma”. 
+  
+El reto de los móviles 
+Adverados, sin embargo, precisa que son los colectivos profesionales, en especial abogados, arquitectos e ingenieros, los que lideran el uso de la firma electrónica. Así, según el informe en España existe un parque instalado de lectores de certificados digitales de alrededor de dos millones. La mitad de ellos son usados por colectivos profesionales  para trámites con sus colegios profesionales y en la Administración Pública. Del otro millón de lectores, apenas el 30% se usan para leer e-DNI, y entre estos usuarios, los profesionales vuelven a ser mayoría para comunicarse con sus colegios. 
+  
+“La firma electrónica ha constituido un gran avance en la forma en la que los abogados pueden interactuar con el colegio”, afirma Pedro Luis Huguet,  quien explica que la inversión en avances tecnológicos son constantes. Así el objetivo para 2014 que se ha marcado el Consejo General de la Abogacía es diseñar servicios con certificado ACA para móviles y tablets.  “Los abogados se mueven mucho y los dispositivos móviles se han convertido en la oficina del abogado, por lo que este año vamos a diseñar mecanismos para que, estén donde estén, los colegiados puedan, a través de la firma electrónica, interrelacionarse con el colegios y hacer su trabajo”, afirma el vicepresidente del Consejo General de la Abogacía. 
+ 
+#videosobrefirmadigitalenempresas
+
+
+
+
+
+
+1 mar 2014
+
+
+No son deducibles en el Impuesto sobre Sociedades las facturas por prestaciones de servicios recibid
+
+En la Sentencia de la Audiencia nacional de 21 de diciembre 2013 la Sala sostiene que el exceso en la duración del procedimiento en el caso que se enjuicia, no puede imputarse a la actora, sino que es debido a la tardanza en cinco meses en dictarse el Acuerdo de liquidación, por lo que, conforme a la doctrina del Tribunal Supremo, no concurre en el presente supuesto el elemento teleológico, que, según el Alto Tribunal necesariamente debe integrar el concepto de dilación imputable, ya que no se ha producido ningún impedimento a la Inspección para continuar con normalidad el desarrollo de su tarea, sino que, por el contrario, aún existiendo tales dilaciones, el procedimiento continuó y de hecho se firmaron las actas antes de que transcurriera el plazo de doce meses, ya que en la fecha de la firma, 29 de enero de 2009, aún faltaba un mes y medio para que se cumplieran los doces meses legalmente establecidos para la finalización de dicho procedimiento. 
+En cuanto a la regularización practicada, se confirma el Acuerdo de liquidación que afirma que la misma se sustenta fundamentalmente en la existencia de simulación, ya que a juicio de los Actuarios, las facturas por prestaciones de servicios recibidas por el sujeto pasivo de las entidades vinculadas a éste directa o indirectamente no resultan deducibles ya que amparan realmente un reparto de beneficios, por lo que entienden que se trata de una retribución de fondos propios que tiene la consideración de gasto fiscalmente no deducible. 
+La entidad alega que los servicios se prestaron y que la razón de que facturaran en función de la participación fue que no se quería perjudicar la liquidez de la entidad, por lo que se acordó cobrar los servicios en función de la participación. Sin embargo, este criterio no respeta el principio de devengo, lo cual no es admisible, pues el art. 19.3 Ley IS no supone una opción a favor del contribuyente. 
+Por otro lado, los gastos no han sido probados, por lo que no se admite su deducción y tampoco han sido acreditadas determinadas comisiones de venta. 
+Si quieren saber más sobre el tema y/o concertar una reunión con nosotros, no duden en ponerse en contacto al: 
+tlf.: 91 57 98 292 
+móvil: 645 96 80 93 
+asesoria@orbis-corporacion.com 
+ 
+#impuestosobresociedades
