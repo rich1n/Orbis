@@ -18,6 +18,7 @@ Por ello nosotros les ofrecemos las siguientes especialidades:
 
 
 ## Filiales y Sucursales Extranjeras
+(EL APARTADO FINANCIERO TAMBIEN ESTA EN "PATENTE")
 
 Para FILIALES Y SUCURSALES EXTRANJERAS estamos preparados para recibirles. En ORBIS sabemos que la introducción de una pequeña y mediana empresa extranjera en España o la apertura de una sucursal en el extranjero necesita una comprensión exhaustiva de los impuestos, la movilidad de los empleados y la burocracia en la que podamos ayudar. Ya sea a través de nuestras propias oficinas o las de nuestra red internacional.
 
