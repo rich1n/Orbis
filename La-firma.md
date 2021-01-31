@@ -53,3 +53,59 @@ En nuestra exigencia con nosotros mismos nos comprometemos plenamente con nuestr
 Porque queremos crecer contigo y según nuestro eslogan: "Si no sabes donde vas ningún camino te llevará allí.."... 
 
 Vamos a ofrecerte nuestro mejor know-how adquirido a lo largo de estos años y brindarte la mejor atención que puedas desear.....
+
+
+## Actualidad y Noticias
+
+(Chequear adjuntos .xml y blog.txt)
+
+## Garantías y Coberturas
+
+### Garantías:
+ 
+Nuestras garantías residen en los colegios profesionales a los cuales pertenecemos y que nos avalan y acreditan para el ejercicio de la profesión.
+
+Dichos colegios son:
+
+![COLEGIOS](https://res.cloudinary.com/rich1n/image/upload/v1612055099/colegios_wwafzp.png)
+
+### Coberturas
+
+ORBIS tiene suscritas una serie de pólizas para dar cobertura adecuada a la prestación de los servicios ofertados a nuestros clientes:
+
+* Seguros de Responsabilidad Civil, con límites asegurados de 3 MM € a 6 MM € por siniestro y año.
+* Seguro de Protección de Datos para la cobertura ante posibles sanciones de la AGD en materia de la LOPD con una cobertura de 600.000 €.
+* Seguro de Infidelidad de Empleados y Actos Fraudulentos, con una cobertura de 600.000 € por siniestro.
+
+### Protección de datos
+
+ORBIS desde el primer momento se ha sometido a la normativa sobre Protección de Datos establecida por la LOPD, habiendo cursado su alta en la Agencia de Protección de Datos (APD) obteniendo los números de registro correspondientes, disponiendo de forma actualizada del Manual de Procedimiento Interno de Seguridad (Documento de Seguridad).
+
+
+### Oficinas y Delegaciones
+
+### Localización
+(google maps )
+![Mapa Orbis](https://res.cloudinary.com/rich1n/image/upload/v1612054887/mapa_orbis_slp6bf.png)
+
+
+### CONTACTA CON NOSOTROS
+### FORMULARIO DE CONTACTO
+![SITIO](https://res.cloudinary.com/rich1n/image/upload/v1612054954/formulario_y_contacto_ikie7g.png)
+
+MADRID
+Sede corporativa
+Estamos en la C/María de molina nº 26, 1ª dcha
+28006 - Madrid (España)
+ 
+Delegación territorial Centro
+C/Antonio López, 249, planta 3ª- dcha.
+28047 - Madrid 
+
+ALICANTE
+Delegación territorial Levante
+Estamos en la C/Alfonso X el sabio, 46, 3ª izq., 03003, Alicante (España).
+
+Atendemos  CITA PREVIA de Lunes a Jueves de 09h00 a 18h00 y los Viernes de 09h00 hasta las 15h00.
+
+e-mail: info@orbis-corporacion.com
