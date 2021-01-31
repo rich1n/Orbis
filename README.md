@@ -54,10 +54,10 @@ Quienes somos
 En ORBIS CORPORACIÓN contamos con presencia nacional y apostamos por la sistematización y seguridad de los procesos de trabajo. Esto nos destaca dentro de nuestro sector, formado, en su gran parte, por despachos profesionales pequeños y medianos, con influencia local y una forma de trabajo tradicional.
 
 Nos caracterizamos por:
-• Facilitar información y conocimiento, para que el cliente pueda tomar las mejores decisiones para el negocio.
-• Optimizar los recursos de la empresa para conseguir una mayor eficiencia.
-• Nuestro equipo multidisciplinar.
-• Proporcionamos seguridad legal y jurídica a todas las acciones de la empresa.
+* Facilitar información y conocimiento, para que el cliente pueda tomar las mejores decisiones para el negocio.
+* Optimizar los recursos de la empresa para conseguir una mayor eficiencia.
+* Nuestro equipo multidisciplinar.
+* Proporcionamos seguridad legal y jurídica a todas las acciones de la empresa.
 
 
 Nuestra misión:
@@ -82,6 +82,12 @@ Escrituras y registros
 Compliance y prevención
 Mediación de seguros y gerencia de riesgos
 Administración y gestión de activos inmobiliarios
+
+### Un poco de nuestra historía
+
+Después de una sólida formación y experiencia en el ámbito empresarial, la gestión de inmuebles y del mundo de los negocios, de los socios fundadores, nace ORBIS CORPORACIÓN. 
+
+Cada año se van añadiendo a nuestro despacho, nuevos profesionales que hoy en día forman nuestro equipo de jóvenes asesores y consultores que acompañan a nuestros clientes sean esos empresas y/o particulares en el entramado mundo del derecho, de la economía, de la finanza ...
 
 
 
