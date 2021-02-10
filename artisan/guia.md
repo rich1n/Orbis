@@ -21,18 +21,20 @@ Menú emergente adicional en la ficha de Propiedades de Tueste (Menú Tueste >> 
 
 El servicio tiene soporte de funciones para múltiples usuarios, tostadoras y almácenes; así como blends o mezclas y certificados; tablas, reportes de impuestoas y predicciones; la integración del artisan soporta el uso fuera de línea (offline).
 
-Tu primer tueste
+#### Primer tueste
 
-Ve a Menú > Vista y chequea que Controles y Lecturas estén activados. Luego asegúrate que tu tostadora esté encendida y caliente, así como los lectores de temperatura estén marcando.
+* Menú > Vista
 
-Botones y deslizadores
+Chequea que Controles y Lecturas estén activados. Luego asegúrate que tu tostadora esté encendida y caliente, así como los lectores de temperatura estén marcando.
+
+#### Botones y deslizadores
 
 Así es como se ve el control principal
 
+![Control Principal](topscreen.png)
 
 Los botones de evento del Artisan se ven así:
-
-
+![Botones de Evento](bottonscreen.png)
 
 Los botones de evento iniciarán y detendrán tus tuestes; también creará puntos clave de información que se registrarán en la pantalla principal. 
 Durante el tueste, ocurrirán ciertos eventos (fin de secado, inicio del primer crack, etc.) el cual debes de ir presionando estos botones para agregar está información a tu registro.
@@ -42,21 +44,23 @@ Cuando todo esté listo para tostar, presiona el botón "ON". luego presionas el
 
 En el tueste, cuando sepas que tu lote de café llegó a la fase final de secado, presiona el botón "FIN SECADO"; también haz lo mismo con el "INICIO FC" y "DESCARGAR". Luego que esté completado el tueste, presiona el botón "OFF". Felicitaciones por tu primer tueste.
 
-
-NOTA: Desconecta tu Laptop antes de tostar.
-
-Algunas personas, 
-
-NOTE: Unplug Your Laptop Before You Roast
+#### NOTA: Desconecta tu Laptop antes de tostar.
 
 Si vas a mantener tu computador conectado a la toma de corriente; necesitarás un aislante USB para evitar la retroalimentación que te generará picos indeseados en tu gráfica de tueste.
 Si usas un computador de escritorio, necesitarás un aislante si logras ver esos picos.
 
-Antes o después de tu primer tueste, chequea en la página de configuración para ver como ajustar tus lecturas de temperatura de grano y sus tasas de muestra.
+Antes y/o después de tu primer tueste, chequea en la tabla de configuración para ver como ajustar las lecturas de temperatura del grano (Bean Temp) y sus tasas de muestra.
 
-Guardar tus gráficas en varios formatos de imagen o en PDF: *Archivo>Guardar Gráfico*
-Convertir tus datos a otro formato y exportarlo: *Archivo>Convertir* y *Archivo>Exportar comandos*
-Importar un arvhico de tueste: *Archivo>Importar*
-Abrir tus archivos guardados: *Archivo>Abrir
-Abrir tus archivos de manera rápida: *Archivo>Abrir Recientes*
-Comenzar un tueste nuevo: Archivo>Nuevo
+#### Acceso a los archivos (Abrir - Guardar)
+
+* *Archivo>Nuevo* (Comenzar un tueste nuevo)
+* *Archivo>Abrir* (Abrir tus archivos guardados)
+* *Archivo>Abrir Recientes* (Abrir tus archivos de manera rápida)
+* *Archivo>Importar* (Importar un archivo de tueste de otro formato)
+* *Archivo>Exportar* (Exportar tus datos en otro formato)
+* *Archivo>Convertir* (Convertir tus datos a otro formato y exportarlo)
+* *Archivo>Guardar Gráfico* (Guardar tus gráficas en imagen o en PDF)
+
+
+
+
